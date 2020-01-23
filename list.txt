@@ -1,0 +1,1 @@
+['Viktor', 'Stepan', 'Valentin', 'Artem', 'Anna', 'Alina', 'Olesia', 'Olga']
